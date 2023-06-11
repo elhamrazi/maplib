@@ -1,4 +1,7 @@
 package maplib
+import(
+	"fmt"
+)
 
 
 type Location struct {
