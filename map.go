@@ -1,4 +1,4 @@
-package maplib
+package maplib-go
 
 
 type Location struct {
